@@ -1,14 +1,16 @@
-[
-  {
-    "id": 1,
-    "name": "Szymon Matusiak",
-    "username": "smatusiak",
-    "email": "s16695@pjwstk.edu.pl",
-  },
-  {
-    "id": 2,
-    "name": "Mateusz Dmoch",
-    "username": "mati",
-    "email": "mati@dmoch.pl",
-  }
-]
+{
+	"users": [
+	  {
+		"id": 1,
+		"name": "Szymon Matusiak",
+		"username": "smatusiak",
+		"email": "s16695@pjwstk.edu.pl",
+	  },
+	  {
+		"id": 2,
+		"name": "Mateusz Dmoch",
+		"username": "mati",
+		"email": "mati@dmoch.pl",
+	  }
+	]
+}
